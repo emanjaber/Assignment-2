@@ -2,6 +2,11 @@ body {
     background-color: #55CCFF;
 }
 
+#wrap {
+    margin: 0 auto;
+    width: 800px;
+}
+
 ul {
     text-align: center;
     list-style: none;
