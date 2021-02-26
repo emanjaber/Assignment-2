@@ -1,0 +1,17 @@
+body {
+    background-color: #55CCFF;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    text-transform: capitalize;
+}
+
+li::first-letter {
+    font-size: 150%;
+}
+
+p, ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
